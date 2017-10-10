@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Vova",
+        "gender": "man",
+        "canDance": ["hiphop", "pop"]
+    },
+    {
+        "name": "Petya",
+        "gender": "man",
+        "canDance": ["pop"]
+    },
+    {
+        "name": "Nadya",
+        "gender": "woman",
+        "canDance": ["electrodance", "house", "rnb"]
+    },
+    {
+        "name": "Stas",
+        "gender": "man",
+        "canDance": []
+    },
+    {
+        "name": "Danil",
+        "gender": "man",
+        "canDance": ["rnb", "pop"]
+    },
+    {
+        "name": "Margo",
+        "gender": "woman",
+        "canDance": ["hiphop", "electrodance"]
+    },
+    {
+        "name": "Kolya",
+        "gender": "man",
+        "canDance": ["house"]
+    }
+]

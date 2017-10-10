@@ -1,0 +1,57 @@
+[
+    {
+        "name": "rnb",
+        "genre": "rnb",
+        "dance": {
+            "head": ["left", "center", "right"],
+            "left-hand": ["down"],
+            "right-hand": ["down"],
+            "left-foot": ["out"],
+            "right-foot": ["out"]
+        }
+    },
+    {
+        "name": "hiphop",
+        "genre": "rnb",
+        "dance": {
+            "head": ["left", "center", "right"],
+            "left-hand": ["down"],
+            "right-hand": ["down"],
+            "left-foot": ["out"],
+            "right-foot": ["out"]
+        }
+    },
+    {
+        "name": "electrodance",
+        "genre": "electrohouse",
+        "dance": {
+            "head": ["center"],
+            "left-hand": ["up", "down"],
+            "right-hand": ["up", "down"],
+            "left-foot": ["in", "out"],
+            "right-foot": ["in", "out"]
+        }
+    },
+    {
+        "name": "house",
+        "genre": "electrohouse",
+        "dance": {
+            "head": ["center"],
+            "left-hand": ["up", "down"],
+            "right-hand": ["up", "down"],
+            "left-foot": ["in", "out"],
+            "right-foot": ["in", "out"]
+        }
+    },
+    {
+        "name": "pop",
+        "genre": "pop",
+        "dance": {
+            "head": ["left", "center", "right"],
+            "left-hand": ["up", "down"],
+            "right-hand": ["up", "down"],
+            "left-foot": ["in", "out"],
+            "right-foot": ["in", "out"]
+        }
+    }
+]
