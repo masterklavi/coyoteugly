@@ -17,6 +17,7 @@
 
 PHP_OS === 'Linux' OR exit('Only Linux supported!'.PHP_EOL);
 phpversion() >= 7 OR exit('Required php >= 7.0!'.PHP_EOL);
+PHP_SAPI === 'cli' OR exit('Only CLI mode supported!'.PHP_EOL);
 
 require __DIR__.'/app/autoload.php';
 use coyoteugly\EventManager;
